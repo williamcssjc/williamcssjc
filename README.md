@@ -12,7 +12,7 @@ Seja bem-vindo ao meu GitHub! Aqui compartilho meus projetos, estudos e aprendiz
 🔹 [Projeto 2 - Nome do Projeto](#)  
 
 ## 📬 Onde me encontrar  
-📌 **LinkedIn:** [Seu LinkedIn aqui]  
+📌 **LinkedIn:**  https://www.linkedin.com/feed/?trk=guest_homepage-basic_nav-header-signin  
 📌 **Instagram:** [Seu Instagram aqui]  
 📌 **Portfólio:** [Seu site ou GitHub Pages, se tiver]  
 
