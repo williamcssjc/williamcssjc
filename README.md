@@ -1,16 +1,19 @@
-## Hi there 👋
+### 💻 Desenvolvedor Web | Estudante de TI | Apaixonado por tecnologia  
 
-<!--
-**williamcssjc/williamcssjc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Seja bem-vindo ao meu GitHub! Aqui compartilho meus projetos, estudos e aprendizados no mundo do desenvolvimento web. 🚀  
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias & Aprendizados  
+- 📌 Atualmente focado em **HTML, CSS e JavaScript**  
+- 🚀 Explorando **React.js** e aprofundando meus conhecimentos em **frontend**  
+- 🎯 Interesse em **UI/UX Design** para criar interfaces incríveis  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projetos em destaque  
+🔹 [Projeto 1 - Nome do Projeto](#)  
+🔹 [Projeto 2 - Nome do Projeto](#)  
+
+## 📬 Onde me encontrar  
+📌 **LinkedIn:** [Seu LinkedIn aqui]  
+📌 **Instagram:** [Seu Instagram aqui]  
+📌 **Portfólio:** [Seu site ou GitHub Pages, se tiver]  
+
+Obrigado por visitar meu perfil! Vamos construir algo incrível juntos. 🚀  
